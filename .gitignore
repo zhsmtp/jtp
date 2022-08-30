@@ -1,3 +1,11 @@
+build
+*.dll
+*.so
+*.node
+.vscode
+conData
+*.con
+
 # Logs
 logs
 *.log
